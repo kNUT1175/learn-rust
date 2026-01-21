@@ -5,9 +5,35 @@
       <sourceFolder url="file://$MODULE_DIR$/guessing_game/guessing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/guessing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hello-cargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/branches/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/learning-projects/fibonacci/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/learning-projects/temperature-convesrion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/further-ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/references/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/string-slices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rectangles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tuple-structs/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello-cargo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/branches/target" />
+      <excludeFolder url="file://$MODULE_DIR$/functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/loops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/learning-projects/fibonacci/target" />
+      <excludeFolder url="file://$MODULE_DIR$/learning-projects/temperature-convesrion/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/further-ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/references/target" />
+      <excludeFolder url="file://$MODULE_DIR$/string-slices/target" />
+      <excludeFolder url="file://$MODULE_DIR$/structs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rectangles/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tuple-structs/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
